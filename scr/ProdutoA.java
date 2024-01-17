@@ -1,3 +1,4 @@
+package scr;
 public class ProdutoA implements Produto{
     double preco = 10;
     double precoFinal;
