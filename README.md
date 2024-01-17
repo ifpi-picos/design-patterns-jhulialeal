@@ -2,6 +2,10 @@
 
 ## Design Patterns - Factory Method 
 Aluna: Jhúlia de Souza Leal 
+
+
 Atividade Referente à implementação do padrão de projeto Factory Method e código ilustrativo do método 
+
+
 Link para o relatório: https://docs.google.com/document/d/1lUBEzWv9Atw3gNlhqE4E7fTqOUYKvf-Axm1a5P6JjN0/edit?usp=sharing
 
